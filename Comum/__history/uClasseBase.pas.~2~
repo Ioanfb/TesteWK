@@ -1,0 +1,24 @@
+unit uClasseBase;
+
+interface
+
+uses uFormBase, FireDac.Comp.Client, uDmdPrincipal;
+
+type TClasseBase = Class(TObject)
+  private
+  RegistroEncontrado :Boolean;
+
+  function CriaQuery(lSQL :String):TFDQUery;
+End;
+
+implementation
+
+{ TClasseBase }
+
+
+function TClasseBase.CriaQuery(lSQL: String): TFDQUery;
+begin
+  result := dmdPrincipal.CriaQuery(lSQL);
+end;
+
+end.

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/14 14:55:54.000.269,=C:\Users\Maxxi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/05 09:42:16.000.196,=C:\Users\Maxxi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/05 09:42:52.000.479,C:\Users\Maxxi\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\WK\uPrincipal.pas</Transaction>
+    <Transaction>2021/08/05 09:42:52.000.479,C:\Users\Maxxi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projetos\WK\uPrincipal.dfm</Transaction>
+    <Transaction>2021/08/05 10:12:18.000.277,C:\Users\Maxxi\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\WK\Pedidos.dproj</Transaction>
+    <Transaction>2021/08/16 15:32:20.356,=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 15:32:46.953,C:\Projetos\WK\uFormBase.pas=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 15:32:46.953,C:\Projetos\WK\uFormBase.dfm=C:\Projetos\WK\Unit1.dfm</Transaction>
+    <Transaction>2021/08/16 16:01:40.519,=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:02:18.443,C:\Projetos\WK\uDmdPrincipal.dfm=C:\Projetos\WK\Unit1.dfm</Transaction>
+    <Transaction>2021/08/16 16:02:18.443,C:\Projetos\WK\uDmdPrincipal.pas=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:05:44.379,=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:06:06.587,C:\Projetos\WK\uException.pas=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:06:06.587,C:\Projetos\WK\uException.dfm=C:\Projetos\WK\Unit1.dfm</Transaction>
+    <Transaction>2021/08/16 16:26:32.217,=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:27:16.550,C:\Projetos\WK\uPrincipal.pas=</Transaction>
+    <Transaction>2021/08/16 16:28:17.498,C:\Projetos\WK\uPrincipal.dfm=C:\Projetos\WK\Unit1.dfm</Transaction>
+    <Transaction>2021/08/16 16:28:17.498,C:\Projetos\WK\uPrincipal.pas=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:30:55.382,=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:36:21.840,C:\Projetos\WK\Comum\uClasseBase.pas=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:42:01.889,=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:42:31.142,C:\Projetos\WK\uInterface.pas=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 17:12:47.924,=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 17:13:03.995,C:\Projetos\WK\uController.pas=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 17:18:07.333,=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 17:19:05.055,C:\Projetos\WK\uCFactory.pas=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 17:19:17.340,C:\Projetos\WK\uCController.pas=C:\Projetos\WK\uController.pas</Transaction>
+    <Transaction>2021/08/16 17:27:59.215,=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 17:28:21.424,C:\Projetos\WK\uCProdutos.pas=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 17:37:31.195,=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 17:39:51.466,C:\Projetos\WK\uCClientes.pas=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 17:42:21.044,=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 17:44:29.555,C:\Projetos\WK\uCPedidos.pas=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 18:40:06.122,=C:\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 18:40:23.307,C:\Projetos\WK\uCItemPedido.pas=C:\Projetos\WK\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

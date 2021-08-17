@@ -1,0 +1,12 @@
+unit uClasseBase;
+
+interface
+
+type TClasseBase = Class(TObject)
+  private
+  RegistroEncontrado :Boolean;
+End;
+
+implementation
+
+end.
